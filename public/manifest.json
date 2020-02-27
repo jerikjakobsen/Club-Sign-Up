@@ -1,0 +1,9 @@
+{
+  "short_name": "Club Signup",
+  "name": "Club Signup Form",
+  "icons": [],
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

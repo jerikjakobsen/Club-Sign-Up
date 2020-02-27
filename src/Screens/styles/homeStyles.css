@@ -1,0 +1,12 @@
+.body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    clear: both;
+    font-size: 100%
+}
+
+.sheetsLink {
+    width: 300px;
+}
+
